@@ -1,13 +1,15 @@
-Cython==3.0.11
+--upgrade pip
+pygame --pre
+cython==0.29.33
 click==7.1.2
 Flask==1.1.2
 Flask-Cors==3.0.8
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.15.1
 MarkupSafe==1.1.1
-numpy
+joblib
+numpy==1.23.1
 pandas
 sklearn
 pickle-mixin
