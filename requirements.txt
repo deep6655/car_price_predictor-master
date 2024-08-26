@@ -1,4 +1,3 @@
---upgrade pip
 pygame --pre
 cython==0.29.33
 click==7.1.2
